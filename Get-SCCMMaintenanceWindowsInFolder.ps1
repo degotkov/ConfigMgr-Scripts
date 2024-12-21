@@ -1,4 +1,4 @@
-﻿  <#
+﻿ <#
     .SYNOPSIS
     Returns a list of maintenance windows for each collection located in the specified ConfigMgr (SCCM) folder.
     .DESCRIPTION
